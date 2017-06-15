@@ -1,2 +1,2 @@
 # SSOAzureWeb
-Sample .NET 4.62 Website using Azure AD
+Sample .NET 4.6x Website using Azure AD
